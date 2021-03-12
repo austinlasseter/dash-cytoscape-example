@@ -3,7 +3,7 @@
 
 This repo demonstrates a simple dash app using the cytoscape library. Big thanks to (Adam at Charming Data)[https://github.com/Coding-with-Adam] for providing this tutorial.
 
-* Application on Elastic Beanstalk: https://dash-cytoscape-example-dev.us-east-1.elasticbeanstalk.com
+* Application on Elastic Beanstalk: http://dash-cytoscape-example2-dev.us-east-1.elasticbeanstalk.com/
 
 Sources
 
